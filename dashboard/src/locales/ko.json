@@ -106,5 +106,5 @@
   "FAQQ21": "어떻게 메타데이터를 업데이트하나요?",
   "FAQA21": "<a href=\"https://cloudflare-ipfs.com/ipns/dotapps.io/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/settings/metadata\">Dotapps.io, 설정 > 메타데이터</a> 섹션으로 이동해, <b>메타데이터 업데이트</b> 버튼을 눌러주세요. 그 후, 여러분의 윈도우를 새로 고침해보세요. 반드시 최근에 사용한 체인 타입으로 진행하셔야 합니다",
   "FAQQ22": "[ \”잔액 없음 에러\”가 발생했어요”,
-  "FAQA22": "한번 여러분의 지갑에 <b>전송 가능한</b> $KSM 이 있는 지 확인해주세요. 스테이킹된 KSM은 전송에 사용될 수 없습니다. You can check it at <a href=\"https://cloudflare-ipfs.com/ipns/dotapps.io/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/accounts\">Dotapps.io > 계정<a/> 탭에서 확인하시거나, 잔고 확인 버튼 혹은 <b>전송 가능한 수량</b> 탭을 통해 확인하실 수 있습니다."
+  "FAQA22": "한번 여러분의 지갑에 <b>전송 가능한</b> $KSM 이 있는 지 확인해주세요. 스테이킹된 KSM은 전송에 사용될 수 없습니다. <a href=\"https://cloudflare-ipfs.com/ipns/dotapps.io/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/accounts\">Dotapps.io > 계정<a/> 탭에서 확인하시거나, 잔고 확인 버튼 혹은 <b>전송 가능한 수량</b> 탭을 통해 확인하실 수 있습니다."
 }
